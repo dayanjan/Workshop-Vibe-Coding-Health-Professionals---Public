@@ -6,19 +6,35 @@
 
 Workshop materials from the [AI Ready RVA](https://aireadyrva.com) session at VCU School of Pharmacy, Laboratory of Digital Health — March 14, 2026.
 
-## What Happened
+![Workshop in action — participants building AI workflow harnesses at VCU School of Pharmacy](images/workshop-photo.jpg)
 
-13 professionals — from healthcare and pharmacy to finance, government IT, and consulting — built their first AI workflow harnesses in 60 minutes using Claude Code. Zero coding experience required.
+## Why This Matters
 
-The breakthrough moment: attendees pasted a single template (`BUILD-THIS-PROJECT.md`) into Claude Code, which generated a complete project scaffolding (CLAUDE.md, skill, agent, rule, and folder structure). After restarting Claude Code, the generated CLAUDE.md loaded automatically — and the AI remembered everything.
+Most AI workshops teach you how to write prompts. This one teaches you how to build **persistent, structured AI workflows** that survive across sessions.
 
-## Quick Start
+The core idea: treat AI like a new team member. Write it onboarding documents — a project memory file, a standard operating procedure, a job description, compliance guardrails — and it shows up ready to work every time you open the project. No re-explaining context. No copy-pasting prompts. Just structured collaboration that compounds over time.
+
+This matters for healthcare professionals, researchers, and administrators because the same pattern works whether you're analyzing workforce data, mapping grant funding, or profiling community health — and every workflow includes built-in guardrails for data ethics, source attribution, and responsible interpretation.
+
+## Start Here (Brand New to Coding?)
+
+If you've never used a terminal before, follow these five steps:
+
+1. **Download this repo** — click the green **Code** button above, then **Download ZIP**, and unzip it
+2. **Install [VS Code](https://code.visualstudio.com/)** and **[Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)** (requires an Anthropic API key or Claude Pro/Max subscription)
+3. **Open one starter project folder** in VS Code (e.g., `starter-projects/richmond-workforce-analysis/`)
+4. **Open the terminal** (Ctrl+`` ` ``), type `claude`, and **paste the entire contents of `BUILD-THIS-PROJECT.md`**
+5. **Wait ~15 minutes** for Claude to generate your project, then **restart Claude Code** so it loads the new CLAUDE.md — compare your output to `completed-examples/` to verify it worked
+
+That's it. One paste, one restart, one working AI workflow.
+
+## Quick Start (For Developers)
 
 1. **Install Claude Code**: `winget install Anthropic.ClaudeCode` (Windows) or `brew install claude-code` (macOS)
 2. **Pick a starter project** from `starter-projects/` and open the folder in VS Code
-3. **Start Claude Code** — open the terminal (Ctrl+\`) and type `claude`
+3. **Start Claude Code** — open the terminal and type `claude`
 4. **Copy the contents of `BUILD-THIS-PROJECT.md`** and paste it into Claude Code
-5. **Wait ~15 minutes** — Claude generates your project, then restart Claude Code so it loads the new CLAUDE.md
+5. **Restart Claude Code** after generation so it loads the new CLAUDE.md
 
 ## Repository Contents
 
@@ -57,7 +73,7 @@ Every starter template generates exactly 5 things:
 ## Prerequisites
 
 - [VS Code](https://code.visualstudio.com/)
-- [Claude Code](https://code.claude.com/docs/en/overview) — requires Anthropic API key or Claude Pro/Max subscription
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) — requires Anthropic API key or Claude Pro/Max subscription
 - Google Account (optional — for Google Drive junction and Colab)
 
 ## Workshop Team
@@ -65,11 +81,15 @@ Every starter template generates exactly 5 things:
 - **Dr. Dayanjan S. Wijesinghe** — AI Ready RVA, VCU School of Pharmacy, Laboratory of Digital Health
 - **Ms. Mora Alabi, PharmD Candidate** — VCU School of Pharmacy
 
+## Interested in a Workshop?
+
+The Laboratory of Digital Health at VCU School of Pharmacy is always open to sharing knowledge, empowering communities, and helping workforces build practical AI skills. If your organization is interested in a similar hands-on session, [reach out](mailto:dswijesinghe@vcu.edu).
+
 ## Resources
 
-- [Claude Code Documentation](https://code.claude.com/docs/en/overview)
-- [Claude Code Skills](https://code.claude.com/docs/en/skills)
-- [Claude Code Subagents](https://code.claude.com/docs/en/sub-agents)
+- [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code/overview)
+- [Claude Code Skills](https://docs.anthropic.com/en/docs/claude-code/skills)
+- [Claude Code Subagents](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
 - [BLS QCEW Open Data](https://www.bls.gov/cew/additional-resources/open-data/)
 - [NIH Reporter API](https://api.reporter.nih.gov/)
 - [CDC PLACES](https://www.cdc.gov/places/)
