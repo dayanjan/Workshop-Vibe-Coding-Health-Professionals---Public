@@ -1,4 +1,4 @@
-# Vibe Coding for Healthcare Professionals
+# Vibe Coding for Professionals
 
 ## Building AI Workflows with Claude Code
 
@@ -931,6 +931,6 @@ The AGIL (AI-Guided Inquiry Learning) framework, developed by Dr. Wijesinghe, us
 
 ---
 
-*Thank you for attending Vibe Coding for Healthcare Professionals. The project you build today is the beginning — the real value compounds as you refine, extend, and share your workflows.*
+*Thank you for attending Vibe Coding for Professionals. The project you build today is the beginning — the real value compounds as you refine, extend, and share your workflows.*
 
 **AI Ready RVA | March 14, 2026 | VCU School of Pharmacy**

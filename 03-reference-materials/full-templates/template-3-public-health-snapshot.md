@@ -1,6 +1,6 @@
 # Project Documentation Generator v2.2 — PRE-FILLED TEMPLATE
 ## Use Case 3: Richmond Public Health Snapshot
-## Vibe Coding for Healthcare Professionals Workshop | March 14, 2026
+## Vibe Coding for Professionals Workshop | March 14, 2026
 
 > **How to use this template**: Copy this entire file and paste it into a fresh Claude Code session. Claude will generate a complete project scaffolding with all the skills, agents, rules, and hooks you need. No edits required — just paste and go.
 >

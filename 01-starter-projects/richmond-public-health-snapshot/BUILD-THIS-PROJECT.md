@@ -1,5 +1,5 @@
 # Starter Template — Richmond Public Health Snapshot
-## Vibe Coding for Healthcare Professionals Workshop | March 14, 2026
+## Vibe Coding for Professionals Workshop | March 14, 2026
 
 > **Paste this entire file into a fresh Claude Code session.** Claude will generate 5 files in ~15 minutes. No edits needed.
 >

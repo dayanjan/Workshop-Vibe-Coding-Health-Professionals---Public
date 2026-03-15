@@ -1,4 +1,4 @@
-# Vibe Coding for Healthcare Professionals
+# Vibe Coding for Professionals
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -14,7 +14,7 @@ Most AI workshops teach you how to write prompts. This one teaches you how to bu
 
 The core idea: treat AI like a new team member. Write it onboarding documents — a project memory file, a standard operating procedure, a job description, compliance guardrails — and it shows up ready to work every time you open the project. No re-explaining context. No copy-pasting prompts. Just structured collaboration that compounds over time.
 
-This matters for healthcare professionals, researchers, and administrators because the same pattern works whether you're analyzing workforce data, mapping grant funding, or profiling community health — and every workflow includes built-in guardrails for data ethics, source attribution, and responsible interpretation.
+This matters for professionals across every domain — healthcare, finance, government, consulting, defense — because the same pattern works whether you're analyzing workforce data, mapping grant funding, or profiling community health. Every workflow includes built-in guardrails for data ethics, source attribution, and responsible interpretation.
 
 ## Start Here (Brand New to Coding?)
 
